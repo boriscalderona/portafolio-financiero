@@ -14,6 +14,8 @@ Bienvenido a mi portafolio profesional. Aquí presento mis proyectos de automati
 
 <iframe title="desviaciones de presupuesto" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=5a73ed3b-4c44-475c-beee-90ec0d22ca9d&autoAuth=true&ctid=3ec3a737-1b97-47f3-8214-cb91e244eaf9&actionBarEnabled=true" frameborder="0" allowFullScreen="true"></iframe>
 
+https://app.powerbi.com/reportEmbed?reportId=5a73ed3b-4c44-475c-beee-90ec0d22ca9d&autoAuth=true&ctid=3ec3a737-1b97-47f3-8214-cb91e244eaf9&actionBarEnabled=true
+
 #### 2. Análisis de Rentabilidad por Centro de Costos
 * **Descripción:** Modelo de análisis de márgenes mediante DAX avanzado.
 * **Logros:** Identificación de ineficiencias operativas del 12%.
