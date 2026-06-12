@@ -1,0 +1,12 @@
+title: Boris Calderón
+description: Analista Financiero | Controller
+theme: jekyll-theme-minimal
+
+# Esto crea el menú de navegación
+nav:
+  - name: Inicio
+    link: /
+  - name: Sobre mí
+    link: /acercademi/
+  - name: Proyectos
+    link: /proyectos/
