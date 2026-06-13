@@ -2,7 +2,8 @@
 layout: default
 title: Proyectos
 ---
-[Inicio](/) | [Sobre mí](/acercademi/) | [Proyectos](/proyectos/)
+[Inicio](/portafolio-financiero/) | [Sobre mí](/portafolio-financiero/acercademi/) | [Proyectos](/portafolio-financiero/proyectos/)
+---
 ---
 
 # Proyectos Destacados
