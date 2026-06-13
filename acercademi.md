@@ -3,6 +3,8 @@ layout: default
 title: Sobre mí
 ---
 [Inicio](/) | [Sobre mí](/acercademi/) | [Proyectos](/proyectos/)
+
+
 ---
 
 # Sobre mí
